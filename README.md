@@ -1,6 +1,11 @@
 # 💫 About Me:
 I am a BS Software Engineering student at the University of Engineering and Technology (UET), Lahore, with a strong interest in software development and problem-solving. I enjoy building practical applications and continuously improving my programming skills.<br>My experience includes working with Python, C#, HTML, CSS, JavaScript, SQL, and Object-Oriented Programming. I have developed academic projects such as a  Management System websites & RPG games and enjoy learning new technologies through hands-on practice.<br>I am always looking for opportunities to learn, collaborate, and contribute to meaningful software projects while growing as a future software engineer.<br>
+## 🎓Current Education
+BS Software Engineering — University of Engineering And Technology, lahore (UET)
 
+## 🚀 Featured Projects
+### City Care Hospital Management System
+Web-based management system built for admin, staff, and patients.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jownraza.786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jown-raza) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jownraza786) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jownraza216283) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jownraza7867) 
